@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
 <h1 align="center">Hi 👋, I'm Arshdeep Singh Bhatia</h1>
 <h3 align="center">SDE-2 | Full-Stack Engineer | System Design Enthusiast</h3>
 
