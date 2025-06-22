@@ -43,7 +43,7 @@
 
 ### 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/arshsb1102/)
+- 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arshsb1102/)
 - 📂 [GitHub](https://github.com/arshsb1102)
 - 📧 [Website](https://arshdeep.vercel.app/) 
 
