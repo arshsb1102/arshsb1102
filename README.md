@@ -30,9 +30,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshdeepdgreat&show_icons=true&theme=default&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arshsb1102&show_icons=true&theme=default&count_private=true" alt="GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshdeepdgreat&theme=default" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshsb1102&theme=default" alt="GitHub streak" />
 </p>
 
 ---
