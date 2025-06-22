@@ -15,15 +15,15 @@
 
 ### 🧠 Skills & Expertise
 
-| Area | Tools / Skills |
-|------|----------------|
-| **Languages** | `C#`, `JavaScript`, `C++`, `SQL` |
-| **Frontend** | `React`, `Next.js`, `TanStack`, `TailwindCSS` |
-| **Backend** | `.NET`, `Spring Boot`, `Node.js`, `REST APIs` |
-| **Architecture** | `Microservices`, `Webhooks`, `Pub/Sub`, `WebSockets` |
-| **Cloud & DevOps** | `Azure`, `Docker`, `CI/CD`, `Redis`, `RabbitMQ` |
-| **Database** | `MongoDB`, `PostgreSQL`, `MS SQL Server` |
-| **Tools** | `Git`, `Webpack`, `Jest`, `Swagger`, `Postman`, `Vite` |
+| Area               | Tools / Skills                                         |
+| ------------------ | ------------------------------------------------------ |
+| **Languages**      | `C#`, `JavaScript`, `C++`, `SQL`                       |
+| **Frontend**       | `React`, `Next.js`, `TanStack`, `TailwindCSS`          |
+| **Backend**        | `.NET`, `Spring Boot`, `Node.js`, `REST APIs`          |
+| **Architecture**   | `Microservices`, `Webhooks`, `Pub/Sub`, `WebSockets`   |
+| **Cloud & DevOps** | `Azure`, `Docker`, `CI/CD`, `Redis`, `RabbitMQ`        |
+| **Database**       | `MongoDB`, `PostgreSQL`, `MS SQL Server`               |
+| **Tools**          | `Git`, `Webpack`, `Jest`, `Swagger`, `Postman`, `Vite` |
 
 ---
 
@@ -33,6 +33,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arshsb1102&show_icons=true&theme=default&count_private=true" alt="GitHub stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshsb1102&theme=default&cache_seconds=86400" alt="GitHub streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshsb1102&layout=compact&langs_count=8" alt="Languages" />
 </p>
 
 ---
