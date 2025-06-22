@@ -41,11 +41,11 @@
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Connect (use ctrl + click)
 
-- 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arshsb1102/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arshsb1102/)
 - 📂 [GitHub](https://github.com/arshsb1102)
-- 📧 [Website](https://arshdeep.vercel.app/) 
+- 🌐 [Website](https://arshdeep.vercel.app/) 
 
 ---
 
